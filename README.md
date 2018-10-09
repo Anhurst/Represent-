@@ -4,7 +4,7 @@ First draft of my Represent! app that lets you view information for representati
 
 ## Authors
 
-Annalise Hurst (anhurst28@gmail.com / [anhurst@berkeley.edu](mailto:anhurst@berkeley.edu))
+Annalise Hurst (anhurst28@gmail.com)
 
 ## Demo Video
 
